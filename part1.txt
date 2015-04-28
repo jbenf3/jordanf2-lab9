@@ -1,7 +1,0 @@
-# Record your regexes in this file.
-
-# Example:
-# this regex matches a calendar year (1990, 2001, etc.)
-[12]?[0-9]{3}
-
-
